@@ -84,7 +84,7 @@
 <a href="https://www.linkedin.com/in/kolar-noorul-absaar-9b36b5344/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
 </a>
-</p>
+</p> https://www.linkedin.com/in/kolar-noorul-absaar-9b36b5344/
 
 ---
 
