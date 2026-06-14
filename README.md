@@ -44,7 +44,8 @@
 - Real-time anomaly detection using Isolation Forest + Z-score algorithms
 - Interactive dashboard with prediction & root cause analysis
 - Static, Replay & Live Simulation modes
-- crudecortex.lovable.app
+[- crudecortex.lovable.app]
+(https://crudecortex.lovable.app/)
 
 ### 🌱 PEM Green Hydrogen LCA Framework
 - Automated Life Cycle Assessment using Python
